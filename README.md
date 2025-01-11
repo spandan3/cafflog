@@ -9,7 +9,7 @@ A full-stack web application that enables users to log and monitor their caffein
 - **Interactive UI**: A clean and responsive interface built with React.js.  
 
 ## Live Demo  
-The application is live and available at: [cafflog.netlify.com](https://cafflog.netlify.com)  
+The application is live and available at: [cafflog.netlify.app](https://cafflog.netlify.app)  
 
 ## Tech Stack  
 - **Frontend**:  
