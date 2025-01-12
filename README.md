@@ -6,7 +6,7 @@ A full-stack web application that enables users to log and monitor their caffein
 - **User Authentication**: Secure sign-up and log-in functionality using Firebase Authentication.  
 - **Caffeine Logging**: Users can add and track their caffeine consumption throughout the day.  
 - **Data Persistence**: Temporary data is stored locally using `localStorage` for an enhanced user experience.  
-- **Interactive UI**: A clean and responsive interface built with React.js.  
+- **Interactive UI**: A clean and responsive interface built with React.js & FantaCSS.  
 
 ## Live Demo  
 The application is live and available at: [cafflog.netlify.app](https://cafflog.netlify.app)  
